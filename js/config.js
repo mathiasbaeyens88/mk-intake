@@ -4,5 +4,5 @@
 // Gebruik NOOIT de "service_role" sleutel in dit bestand.
 window.MK_CONFIG = {
   SUPABASE_URL: https://vhxioimjciblaocgkgtb.supabase.co
-  SUPABASE_ANON_KEY: sb_publishable_6qtEPrRFrF_3Xm1Jm7-NSA_Ffwprstl
+  SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZoeGlvaW1qY2libGFvY2drZ3RiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTUzNTY2MjYsImV4cCI6MjExMDkzMjYyNn0.lhbFS9a2tefuAE5GvQCr4KGWyKHnSx7NdX9XyWhdyoU
 };
