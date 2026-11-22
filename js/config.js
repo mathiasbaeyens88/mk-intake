@@ -3,6 +3,6 @@
 // De anon-sleutel mag publiek zijn: de beveiliging zit in de database zelf.
 // Gebruik NOOIT de "service_role" sleutel in dit bestand.
 window.MK_CONFIG = {
-  SUPABASE_URL: https://vhxioimjciblaocgkgtb.supabase.co/rest/v1/
+  SUPABASE_URL: https://vhxioimjciblaocgkgtb.supabase.co
   SUPABASE_ANON_KEY: sb_publishable_6qtEPrRFrF_3Xm1Jm7-NSA_Ffwprstl
 };
